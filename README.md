@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Durga1534 .. Hey myself Durga Prasad
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... Git
-- 💞️ I’m looking to collaborate on ...  Job as a fresher in We development
+- 💞️ I’m looking for ...  Job as a fresher in Web development
 - 📫 How to reach me ...  Personal mail: kondurupandu2434@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am a foodie, love to binge watch Series in free time 
