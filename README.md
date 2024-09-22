@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Durga1534
+- 👋 Hi, I’m @Durga1534 .. Hey myself Durga Prasad
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... Git
 - 💞️ I’m looking to collaborate on ...  Job as a fresher in We development
