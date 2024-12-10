@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... Git
 - 💞️ I’m looking for ...  Job as a fresher in Web development
-- 📫 How to reach me ...  Personal mail: kondurupandu2434@gmail.com
+- 📫 How to reach me ...  Personal mail: kondurudurgaprasad.2@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am a foodie, love to binge watch Series in free time 
 
