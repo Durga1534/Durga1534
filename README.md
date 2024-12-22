@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Git
 - 💞️ I’m looking for ...  Job as a fresher in Web development
 - 📫 How to reach me ...  Personal mail: kondurudurgaprasad.2@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I am a foodie, love to binge watch Series in free time 
 
 <!---
