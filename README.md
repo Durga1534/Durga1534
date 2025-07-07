@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Durga Prasad a Full-Stack Developer
+# 👋 Hey, I'm Durga Prasad 
 
 I'm a **Full-Stack Developer** passionate about building production-grade web apps using **React.js**, **Next.js**, **Node.js**, and **TypeScript**. I love turning ideas into real-world SaaS products with clean code and great UX.
 
