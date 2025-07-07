@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Durga Prasad (a.k.a @Durga1534)
+# 👋 Hey, I'm Durga Prasad a Full-Stack Developer
 
 I'm a **Full-Stack Developer** passionate about building production-grade web apps using **React.js**, **Next.js**, **Node.js**, and **TypeScript**. I love turning ideas into real-world SaaS products with clean code and great UX.
 
@@ -41,8 +41,8 @@ I'm a **Full-Stack Developer** passionate about building production-grade web ap
 Here are a few things I’ve built recently:
 
 - 🗣️ [**Converso**](https://github.com/Durga1534/my_converso) – Real-time AI voice companion using Vapi AI  
-- 💼 [**FreelanceFlow**](https://github.com/Durga1534/Freelance_Flow) – SaaS for managing clients, invoices, and time tracking  
-- 🎯 [**Prep AI**](https://github.com/Durga1534/Prep_AI) – Interview prep tool with Gemini AI-generated questions
+- 💼 [**FreelanceFlow**](https://github.com/Durga1534/Freelance_Flow) – Manage clients, invoices & time tracking with Stripe billing & analytics 
+- 🎯 [**Prep AI**](https://github.com/Durga1534/Prep_AI) – Generate role-based interview questions using Gemini AI
 
 > 📌 Check my pinned repos or [GitHub Projects →](https://github.com/Durga1534?tab=repositories) for more.
 
