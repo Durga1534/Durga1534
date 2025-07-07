@@ -15,9 +15,9 @@ I'm a **Full-Stack Developer** passionate about building production-grade web ap
 ## 🔧 Projects
 Here are a few things I’ve built recently:
 
-- 🗣️ [**Converso**](https://github.com/Durga1534/Converso) – Real-time AI voice companion using Vapi AI  
-- 💼 [**FreelanceFlow**](https://github.com/Durga1534/FreelanceFlow) – SaaS for managing clients, invoices, and time tracking  
-- 🎯 [**Prep AI**](https://github.com/Durga1534/PrepAI) – Interview prep tool with Gemini AI-generated questions
+- 🗣️ [**Converso**](https://github.com/Durga1534/my_converso) – Real-time AI voice companion using Vapi AI  
+- 💼 [**FreelanceFlow**](https://github.com/Durga1534/Freelance_Flow) – SaaS for managing clients, invoices, and time tracking  
+- 🎯 [**Prep AI**](https://github.com/Durga1534/Prep_AI) – Interview prep tool with Gemini AI-generated questions
 
 > 📌 Check my pinned repos or [GitHub Projects →](https://github.com/Durga1534?tab=repositories) for more.
 
@@ -25,7 +25,7 @@ Here are a few things I’ve built recently:
 
 ## 📫 How to Reach Me
 - ✉️ **Email:** kondurudurgaprasad.2@gmail.com  
-- 🌐 [**LinkedIn**](https://www.linkedin.com/in/your-link)  
+- 🌐 [**LinkedIn**](https://www.linkedin.com/in/durgaprasad23)  
 - 💬 Open to remote roles in full-stack / front-end development
 
 ---
