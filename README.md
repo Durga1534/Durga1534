@@ -7,9 +7,9 @@
   <a href="https://github.com/Durga1534"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-**Full-Stack Developer** specializing in **React.js**, **Next.js**, **Node.js**, and **TypeScript**. I build production-grade SaaS applications with clean architecture, seamless UX, and scalable backends.
+**Full-Stack Developer** passionate about building modern web applications with **React.js**, **Next.js**, **Node.js**, and **TypeScript**. I enjoy turning ideas into functional products with clean code and intuitive user experiences.
 
-🔍 **Open to remote full-stack/frontend roles** | 📍 Based in India
+🔍 **Open to remote full-stack/backend roles** | 📍 Based in India
 
 ---
 
