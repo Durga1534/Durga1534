@@ -49,46 +49,73 @@
 
 ---
 
-## 🔧 Featured Projects
+## Featured Projects
 
-### 🗣️ [Converso](https://github.com/Durga1534/my_converso) | [Live Demo →](https://my-converso.vercel.app/)
-**Real-time AI Voice Companion** powered by Vapi AI  
-A conversational AI assistant that enables natural voice interactions with instant responses.
+### [JobSense AI](https://github.com/Durga1534/JobSense-AI)
+**Autonomous AI Job-Hunting Agent**
 
-**Tech Stack:** Next.js, TypeScript, Vapi AI, WebSockets, Tailwind CSS  
+AI agent that automates job hunting — searches boards, scores each listing against your resume using Groq AI, and sends the best matches to WhatsApp. Built to solve my own job-search fatigue.
+
+**Tech Stack:** Node.js · TypeScript · QStash · Redis · Groq AI · Twilio · Arcjet · Neon PostgreSQL · Koyeb
+
 **Key Features:**
-- Real-time voice-to-text transcription
-- AI-powered conversational responses
-- Session management and conversation history
-- Low-latency audio streaming
+- QStash drives the background polling queue with guaranteed at-least-once delivery
+- Groq AI scores each job listing against resume fit in under 200ms per listing
+- Arcjet handles rate limiting and bot protection at the API edge
+- Resolved real production issues during build — Groq JSON parsing failures, WhatsApp character limits, and credential rotation after a GitHub push protection incident
+- Full production stack deployed at zero infrastructure cost
+
+> No live demo — backend service. See GitHub for architecture and setup.
 
 ---
 
-### 💼 [FreelanceFlow](https://github.com/Durga1534/Freelance_Flow) | [Live Demo →](https://freelance-flow-xi.vercel.app/)
-**Complete Freelance Management Platform**  
-All-in-one solution for freelancers to manage clients, track time, generate invoices, and receive payments.
+### [Syncro Flow](https://github.com/Durga1534/collab-dashboard) | [Live Demo →](https://syncro-flow-ten.vercel.app)
+**Real-Time Collaborative Workspace**
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe, JWT Auth  
+Real-time collaborative workspace where teams manage tasks and see live updates across every connected browser in under 100ms.
+
+**Tech Stack:** Next.js 16 · TypeScript · PostgreSQL · Drizzle ORM · Pusher · Clerk · Zod · Vercel
+
 **Key Features:**
-- Client & project management dashboard
-- Automated invoice generation with PDF export
-- Stripe payment integration for seamless billing
-- Time tracking with analytics and reporting
-- Expense tracking and profit/loss statements
+- Every mutation follows a strict pipeline — Zod validation, RBAC membership check, PostgreSQL write, Pusher broadcast, activity log — in a single server action
+- Multi-tenant workspaces with three roles (owner, admin, member) enforced server-side on every mutation
+- Pusher client and server split into separate modules to prevent SSR bundling crashes at runtime
+- Automatic polling fallback every 5 seconds when WebSocket channel drops, with live/polling status badge in the UI
+- Clerk webhook syncs users into PostgreSQL automatically on sign-up
 
 ---
 
-### 🎯 [Prep AI](https://github.com/Durga1534/Prep_AI)
-**AI-Powered Interview Preparation Tool**  
-Smart interview question generator tailored to specific job roles and experience levels.
+### [Rate Limiter API Gateway](https://github.com/Durga1534/rate-limiter-api-gateway)
+**Distributed Backend Infrastructure**
 
-**Tech Stack:** React, Node.js, Gemini AI API, Tailwind CSS  
+Production-grade API gateway with Redis-based distributed rate limiting, built to handle sustained traffic with zero downtime.
+
+**Tech Stack:** Node.js · Express.js · TypeScript · Redis · PostgreSQL · Docker Compose · JWT · Pino · Prometheus
+
 **Key Features:**
-- Role-based interview question generation
-- Difficulty level customization (Junior/Mid/Senior)
-- AI-generated model answers and evaluation criteria
-- Question bank for common tech stack interviews
-- Progress tracking and practice history
+- Sliding window rate limiting via Redis primitives protects the database from traffic spikes
+- Full Docker Compose orchestration — Node.js, PostgreSQL, and Redis in isolated services with environment parity across local and production
+- Centralized JWT authentication middleware with structured error handling
+- Pino structured logging and Prometheus metrics endpoint configured from day one
+- Layered middleware architecture makes the system straightforward to extend and debug
+
+> No live demo — run locally with docker compose up. Full setup in README.
+
+---
+
+### [Converso](https://github.com/Durga1534/my_converso) | [Live Demo →](https://my-converso.vercel.app)
+**AI Voice Companion SaaS Platform**
+
+AI voice companion SaaS with real-time audio streaming, multi-tenant data isolation, and subscription-based access control.
+
+**Tech Stack:** Next.js · TypeScript · Vapi AI · Supabase · PostgreSQL · Clerk · Row Level Security · Vercel
+
+**Key Features:**
+- PostgreSQL schema designed with Row Level Security so each user can only ever access their own data — enforced at the database level, not the application layer
+- Clerk handles the full auth and billing lifecycle from sign-up through subscription management
+- Vapi AI powers real-time voice streaming with low-latency audio responses
+- Supabase analytics and custom event tracking to understand how users interact with the platform
+- Role-based access control gates features by subscription tier
 
 ---
 
