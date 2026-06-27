@@ -154,6 +154,8 @@
 
 </div>
 
+[![DurgaPrasad profile views](https://u8views.com/api/v1/github/profiles/136675163/views/day-week-month-total-count.svg)](https://u8views.com/github/Durga1534)
+
 ---
 
 ## 🎯 Current Focus
