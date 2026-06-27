@@ -151,10 +151,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durga1534&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durga1534&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 [![DurgaPrasad profile views](https://u8views.com/api/v1/github/profiles/136675163/views/day-week-month-total-count.svg)](https://u8views.com/github/Durga1534)
+</div>
 
 ---
 
